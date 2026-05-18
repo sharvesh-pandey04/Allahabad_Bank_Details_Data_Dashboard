@@ -124,20 +124,6 @@ The dataset contains:
 
 ---
 
-# Project Screenshots
-
-## Dashboard Screenshot
-![Dashboard Screenshot 1](screenshot(8).png
-![Dashboard Screenshot 2](Screenshot(6).png
-
-### Loan Dashboard
-![Loan Dashboard](Screenshot(9).png
-
-### Loan Type Dashboard
-![Loan Type Dashbored](Screenshot(7).png
-
-
----
 
 # Author
 
