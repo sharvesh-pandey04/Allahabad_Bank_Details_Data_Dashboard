@@ -123,6 +123,11 @@ The dataset contains:
 - Add fraud detection analysis
 
 ---
+# Dashboard Screenshots
+- Screenshot (6).png
+- Screenshot (7).png
+- Screenshot (8).png
+- Screenshot (9).png
 
 
 # Author
